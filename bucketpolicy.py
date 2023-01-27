@@ -29,7 +29,7 @@ Amazon S3 Bucket Policy code:
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::yourdomainnamehere.com/*"
+            "Resource": "arn:aws:s3:::ngancloudresume/*"
         }
     ]
 }
