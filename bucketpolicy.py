@@ -13,7 +13,7 @@
             "Resource": "arn:aws:s3:::ngancloudresume/*",
             "Condition": {
                 "StringEquals": {
-                    "AWS:SourceArn": "arn:aws:cloudfront::097550552923:distribution/E3LIJP3Q7MVH0G"
+                    "AWS:SourceArn": "arn:aws:cloudfront::097550552923:distribution/E3HP3BZ7CNQKEF"
                 }
             }
         }
