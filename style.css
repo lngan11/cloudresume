@@ -142,8 +142,9 @@ section:last-child {
 }
 
 .bodyDetails {
-	font-size: 0.9em;
+	font-size: 1.0em;
 	font-style: italic;
+  font-weight: bold;
 	margin-bottom: 3px;
 }
 
