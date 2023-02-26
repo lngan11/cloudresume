@@ -138,14 +138,14 @@ section:last-child {
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
-	margin-bottom: 3px;
+	margin-bottom: 1px;
 }
 
 .bodyDetails {
 	font-size: 1.0em;
 	font-style: italic;
   font-weight: bold;
-	margin-bottom: 3px;
+	margin-bottom: 1px;
 }
 
 .keySkills {
